@@ -1,0 +1,10 @@
+# Secret keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebooks (optional - remove these 2 lines if you want to keep them)
+Untitled.ipynb
+.ipynb_checkpoints/
